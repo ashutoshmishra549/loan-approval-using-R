@@ -1,3 +1,5 @@
+library(ggplot2)
+library(lattice)
 credit<-read.csv("C:\\Users\\Ashutosh\\Desktop\\credit.csv")
 View(credit)
 set.seed(2)
